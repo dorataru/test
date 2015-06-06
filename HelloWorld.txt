@@ -1,2 +1,6 @@
 OK
+<<<<<<< HEAD
 NG
+=======
+This is MAC.
+>>>>>>> mac
